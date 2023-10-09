@@ -2,6 +2,8 @@
 
 外卖订餐系统-前端项目，使用 Vue2 + Element-ui 搭建。
 
+[后端项目地址](https://github.com/GreatArchimage/takeout-order)
+
 ## 效果演示
 
 ![Snipaste_2023-10-09_15-37-26](https://github.com/GreatArchimage/takeout-order-front/assets/112754131/81218355-4242-49f7-95cf-30bc95569a12)
